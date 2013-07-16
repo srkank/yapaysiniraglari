@@ -1,0 +1,1 @@
+Yapay sinir aðlarý ile prostat kanseri teþhisi
